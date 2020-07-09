@@ -1,10 +1,13 @@
-### About Me 
+### About me 
 
-My name is Bridget 👋 
+Hi, I'm Bridget 👋 
 
 I'm a creative technologist designing/researching/building accessible web applications.
 
 Pronouns: she/her/hers
 
-Currently working on: discovery applications and design systems.
+## Currently working on
+
+- discovery applications 
+- design systems
 
