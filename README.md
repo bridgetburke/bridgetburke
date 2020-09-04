@@ -10,4 +10,5 @@ Pronouns: she/her/hers
 
 - discovery applications 
 - design systems
+- digital collections
 
