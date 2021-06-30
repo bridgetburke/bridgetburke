@@ -4,7 +4,7 @@ Hi, I'm Bridget 👋
 
 I'm a creative technologist designing/researching/building accessible web applications.
 
-Pronouns: she/her/they
+Pronouns: she/they
 
 ### Currently working on
 
