@@ -2,7 +2,7 @@
 
 Hi, I'm Bridget 👋 
 
-I'm a creative technologist designing/researching/building accessible web applications.
+I'm a creative and developer designing/researching/building accessible web applications.
 
 Pronouns: she/they
 
