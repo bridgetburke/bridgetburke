@@ -7,8 +7,7 @@ I'm a creative and developer designing/researching/building accessible web appli
 Pronouns: she/they
 
 ### Currently working on
-
-- discovery applications 
+ 
 - design systems
 - digital collections
 
