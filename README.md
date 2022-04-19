@@ -2,7 +2,7 @@
 
 Hi, I'm Bridget 👋 
 
-Front-end developer designing/researching/building accessible web applications.
+Sr. front-end developer designing/researching/building accessible web applications.
 
 Pronouns: she/they
 
