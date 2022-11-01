@@ -2,12 +2,10 @@
 
 Hi, I'm Bridget 👋 
 
-Sr. front-end developer designing/researching/building accessible web applications.
-
-Pronouns: she/they
+Sr. Front-end Developer & Accessibility Specialist at the University of Michigan Library. 
+Designing/researching/building accessible web applications.
 
 ### Currently working on
  
-- design systems
-- digital collections
-
+- Design systems
+- Digital collections
